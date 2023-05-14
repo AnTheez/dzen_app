@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1044125215313",
+    "project_id": "dzen-app-99c89",
+    "storage_bucket": "dzen-app-99c89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044125215313:android:f6196d31ef617220d76670",
+        "android_client_info": {
+          "package_name": "com.example.dzen_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044125215313-94g1j407bpmiobjpr8j1hh0u8ohctjdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dzen_app",
+            "certificate_hash": "f8fe519794a20c93a71437fd189be7da3a2f3e5d"
+          }
+        },
+        {
+          "client_id": "1044125215313-bn4cqkvfsk30ntt5or7efbbsvuhbfe37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPOWLt0Z3u90xy6tczOyA4AMdFK4bGKtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044125215313-bn4cqkvfsk30ntt5or7efbbsvuhbfe37.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044125215313-lt94j311gn9rb4lqsfpk0uc976kuv92i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dzenApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
